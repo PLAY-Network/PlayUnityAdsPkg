@@ -1,2 +1,2 @@
 # Play SDK Ads
-Package version: 0.16.0-dev.19
+Package version: 0.16.0-dev.20
